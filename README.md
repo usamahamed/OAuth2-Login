@@ -59,16 +59,16 @@ Real example for handling OAuth2 authentication and refresh token build with rea
 
 ### Task List
 ```
-- [x] Setup initial react APP
-- [x] initialize webpack configuration
-- [x] define state/stateless components
-- [x] add routing configuration to APP
-- [x] work with OAuth2 and API and make sucessfull login
-- [x] setup axios for API request
-- [x] Handling API response error
-- [x] Charge Points Maps
-- [ ] Add exerta features to the Map(search ,ects...)
-- [ ] PWA(add service worker to app for offline use)
+ [x] Setup initial react APP
+ [x] initialize webpack configuration
+ [x] define state/stateless components
+ [x] add routing configuration to APP
+ [x] work with OAuth2 and API and make sucessfull login
+ [x] setup axios for API request
+ [x] Handling API response error
+ [x] Charge Points Maps
+ [ ] Add exerta features to the Map(search ,ects...)
+ [ ] PWA(add service worker to app for offline use)
 ```
 
 ### Installation
