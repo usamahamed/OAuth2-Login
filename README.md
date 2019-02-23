@@ -70,6 +70,10 @@ Real example for handling OAuth2 authentication and refresh token build with rea
  [ ] Add exerta features to the Map(search ,ects...)
  [ ] PWA(add service worker to app for offline use)
 ```
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Installation
 
