@@ -70,10 +70,19 @@ Real example for handling OAuth2 authentication and refresh token build with rea
  [ ] Add exerta features to the Map(search ,ects...)
  [ ] PWA(add service worker to app for offline use)
 ```
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### APP structure 
+
+# important file and its functionality in the app in brief
+| file | Description 
+| --- | --- |
+| routes.js     | Hold routing informations and routes and Authentication check  |
+| history.js    | mange Routing history and state                                |
+| app.js        | this is the route and Handle API errors and local-login        |
+| alt.js        | alt setup                                                      |
+| InterceptorUtil.js  | getter and setter for managing Interceptor                |
+| AuthStore.js  | contain all App state and handle login-logout-refresh_token functionality    |
+| AuthActions.js | contain App actions need for dispatcher                      |
+
 
 ### Installation
 
