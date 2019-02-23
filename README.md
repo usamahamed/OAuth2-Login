@@ -72,7 +72,7 @@ Real example for handling OAuth2 authentication and refresh token build with rea
 ```
 ### APP structure 
 
-# important file and its functionality in the app in brief
+- important file and its functionality in the app in brief
 | file | Description 
 | --- | --- |
 | routes.js     | Hold routing informations and routes and Authentication check  |
